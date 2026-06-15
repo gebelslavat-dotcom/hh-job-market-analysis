@@ -87,6 +87,15 @@ Analysis of Data Analyst job market in Russia 2026 using hh.ru API
 ## 🔗 Источник данных
 [hh.ru API](https://dev.hh.ru) — открытый API крупнейшего российского job-сайта
 
+### Зарплаты по категориям
+![salary_by_category](salary_by_category.png)
+
+### Сравнение навыков BI vs Data Analyst
+![compare_df](compare_df.png)
+
+### % вакансий с указанной зарплатой по городам
+![salary_pct_city](salary_pct_city.png)
+
 ## 👤 Автор
 Вячеслав Гебель — BI / Data Analyst  
 📧 gebel@internet.ru | Telegram: @gebel_slava  
