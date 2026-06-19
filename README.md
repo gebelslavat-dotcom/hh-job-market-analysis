@@ -93,6 +93,9 @@ Analysis of Data Analyst job market in Russia 2026 using hh.ru API
 ### % удалёнки по городам
 ![remote_pct_city](remote_pct_city.png)
 
+## 📊 Интерактивный дашборд
+[Открыть в DataLens](https://datalens.yandex/2l0tjc0icznal)
+
 ## 🔗 Источник данных
 [hh.ru API](https://dev.hh.ru) — открытый API крупнейшего российского job-сайта
 
